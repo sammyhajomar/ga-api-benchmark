@@ -1,7 +1,7 @@
-# ga-api-benchmark
+# ga-api-benchmark (On-going project)
 
 ## Purpose
-This project was conducted to establish industry benchmarks within plastic & cosmetic surgery, medical spas, and addiction treatment centers. The secondary purpose of this project is to use the aggregated data to analyze the effects of numerous Google Search Algorithm Upates occurring throughout 2019.
+This project was conducted to establish industry benchmarks within plastic & cosmetic surgery, medical spas, and addiction treatment centers. The secondary purpose of this project is to use the aggregated data to analyze the effects of numerous Google Search Algorithm Upates occurring throughout 2019. This is an ongoing project that has not yet been completed.
 
 ### Data Source
 - The data was acquried from multiple Google Analytics accounts utilizing the [Google Analytics API](https://developers.google.com/analytics/devguides/reporting/core/v4/).
