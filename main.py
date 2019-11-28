@@ -1,5 +1,3 @@
-""" Analytics Reporting API V4."""
-
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
 import os
@@ -16,6 +14,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
 KEY_FILE_LOCATION = '{}/cred.json'.format(BASE_DIR)
 
+""" Analytics Reporting API V4."""
 
 def initialize_analytics_reporting():
     """Initializes an Analytics Reporting API V4 service object.
