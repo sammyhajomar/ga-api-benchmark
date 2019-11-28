@@ -12,8 +12,11 @@ This project was conducted to establish industry benchmarks within plastic & cos
 ### Python Libraries
 - Primary Python libraries used include Pandas, Matplotlib, NumPy, Datetime, and OS
 
-
-
+## How to Access and Utilize the Google Analytics API
+1. [Enabling the API](https://console.developers.google.com/start/api?id=analyticsreporting.googleapis.com&credential=client_key)
+    -   Creating a project in the Google API Console
+    -   Enabling the API
+    -   Creating credentials (cred.json)
 
 ## Benefits Google Analytics API vs Google Analytics Native
 
